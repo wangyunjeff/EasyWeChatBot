@@ -7,3 +7,4 @@
 2. 运行代码：`python main.py`
 3. 在微信中找到你想要聊天的群，输入`chatgpt`加上你想要问的问题，例如`chatgpt你喜欢什么颜色？`
 4. 等待机器人回复，如果想要开始新回答，请输入`请开始新回答`
+![image](https://user-images.githubusercontent.com/17672204/222626052-eb063834-e30a-4ddc-b1ff-dde1c5f49c27.png)
