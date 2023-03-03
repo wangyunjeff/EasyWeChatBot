@@ -9,3 +9,5 @@
 4. 等待机器人回复，如果想要开始新回答，请输入`请开始新回答`
 
 ![image](https://user-images.githubusercontent.com/17672204/222627909-8b188c45-d09c-49ed-8817-8a6d6866f864.png)
+![image](https://user-images.githubusercontent.com/17672204/222628935-14f6aaab-2f1e-4b0a-aebc-7acd79ea25b2.png)
+
